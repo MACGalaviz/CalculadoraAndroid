@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CalculadoraAndroid</string>
+    <string name="strcero">0</string>
+    <string name="struno">1</string>
+    <string name="strdos">2</string>
+    <string name="strtres">3</string>
+    <string name="strcuatro">4</string>
+    <string name="strcinco">5</string>
+    <string name="strseis">6</string>
+    <string name="strsiete">7</string>
+    <string name="strocho">8</string>
+    <string name="strnueve">9</string>
+    <string name="strsumar">+</string>
+    <string name="strrestar">-</string>
+    <string name="strmultiplicar">*</string>
+    <string name="strdividir">/</string>
+    <string name="strigual">=</string>
+    <string name="strpunto">.</string>
+    <string name="strborrar">c</string>
+    <string name="strpantalla">0</string>
+</resources>
